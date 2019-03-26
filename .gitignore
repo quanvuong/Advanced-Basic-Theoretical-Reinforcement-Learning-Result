@@ -2,5 +2,5 @@
 .DS_Store
 .idea/
 .texpadtmp/
-Advanced basic theoretical RL results.tex
+*.tex
 bib.bib

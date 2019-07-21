@@ -8,3 +8,5 @@ Theory usually progresses one lemma at a time, so I thought it is a good idea to
 
 
 [Link to pdf](Advanced_basic_theoretical_RL_results.pdf)
+
+Jul 21 2019: I have since realized the futility of this :). Just paper notes for now.
